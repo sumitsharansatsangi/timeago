@@ -6,12 +6,12 @@ publish_to: none
 homepage: https://github.com/andresaraujo/timeago.dart
 
 environment:
-  sdk: ">=2.18.2 <3.0.0"
+  sdk: ">=2.19.0 <3.0.0"
 
 dependencies:
-  intl: ^0.17.0
+  intl: ^0.18.0
 
 dev_dependencies:
-  test: ^1.21.4
-  build_runner: ^2.2.0
-  build_web_compilers: ^3.2.5
+  test: ^1.22.2
+  build_runner: ^2.3.3
+  build_web_compilers: ^3.2.7
